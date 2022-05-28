@@ -1,0 +1,31 @@
+
+.btn {
+    padding: 25px 20px;
+    background-color:rgb(12, 104, 128);
+    border-radius: 3px 4px;
+    border: none;
+    color: white;
+    font-family: sans-serif;
+    font-size: large;
+}
+.body {
+background-color: rgb(223, 223, 177);
+text-align: centers;
+font-family: sans-serif;
+
+}
+.h3 {
+    background-color: rgba(20, 15, 15, 0.76);
+    color: white;
+    height: 200;
+    width: 500;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-family:sans-serif;
+    font-weight: lighter;
+}
+
+.p1 {
+    font-family: sans-serif;
+    font-size: x-large;
+}
